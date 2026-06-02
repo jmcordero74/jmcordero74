@@ -77,13 +77,13 @@ Analista Programador Senior con más de 10 años de experiencia en el sector IT,
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!--<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmcordero74&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcordero74&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
-</div>
+</div>-->
 
 ---
 
