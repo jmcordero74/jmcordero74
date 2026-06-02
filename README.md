@@ -1,13 +1,13 @@
 # 👋 Hola, soy José María Cordero Pérez
 
 ### Senior Backend Developer · Java Specialist · QA Automation Engineer
-> 🚀 +10 años de experiencia | Open to freelance & new challenges
+> 🚀 +11 años de experiencia | Open to freelance & new challenges
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-Analista Programador Senior con más de 10 años de experiencia en el sector IT, especializado en desarrollo **Backend con Java** y con sólida experiencia en **automatización de procesos** y **QA Testing**. He trabajado en proyectos de gran escala para empresas como **Inditex**, **Enel**, **Axpo** y **Gas Natural Fenosa** (Naturgy).
+Analista Programador Senior con más de 11 años de experiencia en el sector IT, especializado en desarrollo **Backend con Java** y con sólida experiencia en **automatización de procesos** y **QA Testing**. He trabajado en proyectos de gran escala para empresas como **Inditex**, **Enel**, **Axpo** y **Gas Natural Fenosa** (Naturgy).
 
 - 🏢 Actualmente en **Getronics** trabajando en proyectos de **Inditex**
 - 🔧 Especializado en **Java**, **Python**, **Spring Boot** y **Shell Script**
