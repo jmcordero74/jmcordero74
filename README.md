@@ -68,7 +68,7 @@ Senior Software Analyst & Developer with 10+ years in the IT industry, specializ
 
 ## 🎯 Certifications & Training
 
-- 📜 **ISTQB Foundation Level** *(in progress)*
+- 📜 **ISTQB Foundation Level**
 - 📱 **Android Development Fundamentals**
 - 🌐 **CCNA Discovery – Networking for Home and Small Business**
 
