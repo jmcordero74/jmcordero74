@@ -59,7 +59,8 @@ Analista Programador Senior con más de 10 años de experiencia en el sector IT,
 
 | Período | Rol | Empresa | Proyecto |
 |---------|-----|---------|---------|
-| 2021 – Actualidad | Analista Programador & QA Tester | Getronics | Inditex – Automatización & Load Testing |
+| 2023 – Actualidad | Analista Programador & QA Manager | Teknei | Lantik – Automatización & Control de Calidad |
+| 2021 – 2023 | Analista Programador & QA Tester | Getronics | Inditex – Automatización & Load Testing |
 | 2018 – 2021 | Analista Programador | Accenture | Enel/Kronos, Axpo, Viesgo, MoMa |
 | 2015 – 2018 | Programador Senior | Everis | Gas Natural Fenosa, Universidad de Navarra |
 
@@ -67,7 +68,7 @@ Analista Programador Senior con más de 10 años de experiencia en el sector IT,
 
 ## 🎯 Certificaciones
 
-- 📜 **ISTQB Foundation Level** *(en proceso)*
+- 📜 **ISTQB Foundation Level**
 - 📱 **Iniciación Android**
 - 🌐 **CCNA Discovery – Networking for Home and Small Business**
 - ⚠️ **Prevención de Riesgos Laborales**
